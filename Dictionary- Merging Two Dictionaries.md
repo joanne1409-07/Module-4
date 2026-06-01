@@ -12,7 +12,15 @@ To write a Python program that merges **two dictionaries** and combines their ke
 ## 🧾 Program
 
 Add code here
-
+~~~
+a=eval(input())
+b=eval(input())
+c=a.copy()
+c.update(b)
+print(c)
+~~~
 ## Output
+<img width="966" height="290" alt="image" src="https://github.com/user-attachments/assets/3fa7d637-d499-45c9-86eb-73a036b1b9e6" />
 
 ## Result
+Thus the program executed successfully.
